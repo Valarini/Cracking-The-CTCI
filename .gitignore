@@ -1,0 +1,8 @@
+# Binaries
+test.x
+
+# VS coode index cache
+.vscode/
+!.vscode/*.json
+# ... but not these ones
+
